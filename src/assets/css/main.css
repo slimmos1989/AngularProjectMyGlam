@@ -1,0 +1,82 @@
+.bgi{
+  background-image: url('./../../assets/image/slider_image_home@1x.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 633px;
+  width: auto;
+ }
+ .abs-center-x {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.cent{
+  text-align: center !important;
+}
+.mar{
+  margin-top: 145px;
+  color: white;
+}
+.btnbtn{
+  margin-top: 40px;
+  background: none;
+  border: 1px solid white;
+  color: white;
+  padding: auto;
+  border-radius: 5px;
+  text-align: center;
+  width: 200px;
+  height: 42px;
+  cursor: pointer;
+  transition: 1s;
+}
+.btnbtn:hover{
+  color: red;
+  border: 1px solid red;
+}
+.imgheader1{
+  margin-top: 64px;
+}
+.marg-button{
+  padding-bottom: 40px;
+  
+}
+
+.label1{
+  color: darkred;
+  margin-top: 100px;
+  margin-bottom:0%; 
+  
+}
+.line-categorie{
+  
+  margin-top: 0%;
+  margin-bottom:50px; 
+  
+}
+.section1{
+  background-color: rgb(231, 231, 231);
+}
+.btnBtnSection1{
+  margin-top: 40px;
+  background: darkred;
+  border: 1px solid darkred;
+  color: white;
+  padding: auto;
+  border-radius: 5px;
+  text-align: center;
+  max-width: 200px;
+  max-height: 42px;
+  cursor: pointer;
+  transition: 1s;
+  
+}
+.btnBtnSection1:hover{
+  color: red;
+  border: 1px solid red;
+  background: none;
+}
+.img{
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,38 @@
+.bg-section5{
+    background-image: url('../../assets/image/news_letter_background_image_home@1x.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 346px;
+    width: auto;
+}
+.btnNewsletter{
+    background-color: black !important;
+    color: white !important;
+    padding: auto !important;
+    width: 100px;
+    cursor: pointer;
+
+    
+}
+.newsletter{
+    padding-top: 40px;
+    height: 90px;
+    border: none !important;
+}
+.mar-subscribe{
+    padding-top: 30px;
+    color:white;
+}
+.footer-bar{
+    padding-top: 30px;
+ 
+}
+.footer-bar-item{
+    color:white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.footer-bar-icon{
+    margin-left: 10px;
+    margin-right: 10px;
+}
