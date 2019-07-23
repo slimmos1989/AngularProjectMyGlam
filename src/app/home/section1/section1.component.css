@@ -80,7 +80,7 @@
   }
   
   .bg-section2{
-    background-image: url('./../../assets/image/recomended_background_image@1x.png');
+    background-image: url('./../../../assets/image/recomended_background_image@1x.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 318px;
